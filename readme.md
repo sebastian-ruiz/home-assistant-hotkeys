@@ -16,3 +16,13 @@ Set the `host` key to your the URL where your home assistant is running, for exa
 
 3. Open `home-assistant-hotkeys.xcworkspace` and compile.
 
+## Usage
+
+Lights can be toggled with F1, F2, F3, ...
+
+## Todo
+
+- [ ] Add menu bar icon
+- [ ] Show lights that are on and off in drop-down menu
+- [ ] Add Preferences pane where secret key and host can be added
+- [ ] Allow custom shorcuts
